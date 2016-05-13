@@ -1,0 +1,27 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "title": "Construction area 1", "photos": "none", "documents": "none", "descr": null }, "geometry": { "type": "Point", "coordinates": [ -10.805186877172218, 6.328702767457685 ] } },
+{ "type": "Feature", "properties": { "title": "Robertsport", "photos": "photo4.jpg,photo5.jpg", "documents": "http:\/\/www.researchplanning.com\/_esi\/indexmaps\/ElSal_index.pdf", "descr": "Large hauler truck:Measuring beach slope" }, "geometry": { "type": "Point", "coordinates": [ -11.367548720931598, 6.752156018686462 ] } },
+{ "type": "Feature", "properties": { "title": "Construction area 3", "photos": "none", "documents": "none", "descr": null }, "geometry": { "type": "Point", "coordinates": [ -9.634861450754014, 5.512936149502242 ] } },
+{ "type": "Feature", "properties": { "title": "Construction area 4", "photos": "none", "documents": "none", "descr": null }, "geometry": { "type": "Point", "coordinates": [ -8.365728722581991, 4.65151401114482 ] } },
+{ "type": "Feature", "properties": { "title": "Construction area 5", "photos": "none", "documents": "none", "descr": null }, "geometry": { "type": "Point", "coordinates": [ -8.05577076132457, 4.88029514901492 ] } },
+{ "type": "Feature", "properties": { "title": "Sanniquellie", "photos": "photo2.jpg,photo3.jpg", "documents": "http:\/\/www.researchplanning.com\/_esi\/indexmaps\/AIW_index.pdf,http:\/\/www.researchplanning.com\/_esi\/metadata\/wa_or_meta.pdf,http:\/\/www.researchplanning.com\/_esi\/indexmaps\/WA-OR_index_2015.pdf", "descr": "Excavator moving rocks on the beach:Cranes" }, "geometry": { "type": "Point", "coordinates": [ -8.711569920009216, 7.363091504618729 ] } },
+{ "type": "Feature", "properties": { "title": "Construction area 7", "photos": "none", "documents": "none", "descr": null }, "geometry": { "type": "Point", "coordinates": [ -8.954278032334209, 6.992527200880162 ] } },
+{ "type": "Feature", "properties": { "title": "Construction area 8", "photos": "none", "documents": "none", "descr": null }, "geometry": { "type": "Point", "coordinates": [ -9.34633544720948, 6.507672275964948 ] } },
+{ "type": "Feature", "properties": { "title": "Construction area 9", "photos": "none", "documents": "none", "descr": null }, "geometry": { "type": "Point", "coordinates": [ -10.114606919040604, 7.684820884479544 ] } },
+{ "type": "Feature", "properties": { "title": "Construction area 10", "photos": "none", "documents": "none", "descr": null }, "geometry": { "type": "Point", "coordinates": [ -8.829007992824426, 5.963286768286366 ] } },
+{ "type": "Feature", "properties": { "title": "Construction area 11", "photos": "none", "documents": "none", "descr": null }, "geometry": { "type": "Point", "coordinates": [ -10.144549610903205, 6.097265936472199 ] } },
+{ "type": "Feature", "properties": { "title": "Construction area 12", "photos": "none", "documents": "none", "descr": null }, "geometry": { "type": "Point", "coordinates": [ -10.288854622095263, 6.770009619320529 ] } },
+{ "type": "Feature", "properties": { "title": "Construction area 13", "photos": "none", "documents": "none", "descr": null }, "geometry": { "type": "Point", "coordinates": [ -9.721888561794223, 7.1374939033608 ] } },
+{ "type": "Feature", "properties": { "title": "Construction area 14", "photos": "none", "documents": "none", "descr": null }, "geometry": { "type": "Point", "coordinates": [ -8.367180730290128, 5.347056555403702 ] } },
+{ "type": "Feature", "properties": { "title": "Construction area 15", "photos": "none", "documents": "none", "descr": null }, "geometry": { "type": "Point", "coordinates": [ -10.527834362969536, 6.243394628996029 ] } },
+{ "type": "Feature", "properties": { "title": "Construction area 16", "photos": "none", "documents": "none", "descr": null }, "geometry": { "type": "Point", "coordinates": [ -9.693736440031065, 5.829691620077751 ] } },
+{ "type": "Feature", "properties": { "title": "Construction area 17", "photos": "none", "documents": "none", "descr": null }, "geometry": { "type": "Point", "coordinates": [ -9.373992065680385, 6.19165553808365 ] } },
+{ "type": "Feature", "properties": { "title": "Construction area 18", "photos": "none", "documents": "none", "descr": null }, "geometry": { "type": "Point", "coordinates": [ -8.892845915272986, 6.220306261433685 ] } },
+{ "type": "Feature", "properties": { "title": "Construction area 19", "photos": "none", "documents": "none", "descr": null }, "geometry": { "type": "Point", "coordinates": [ -9.71372100087047, 7.115917905747869 ] } },
+{ "type": "Feature", "properties": { "title": "Voinjama", "photos": "photo1.jpg", "documents": "http:\/\/www.researchplanning.com\/_esi\/indexmaps\/GA_index_2015.pdf,http:\/\/www.researchplanning.com\/_esi\/indexmaps\/NWAK_index.pdf", "descr": "Aerial photo" }, "geometry": { "type": "Point", "coordinates": [ -9.753926772776927, 8.420192372432513 ] } }
+]
+}
