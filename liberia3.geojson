@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "title": "Robertsport", "photoDescr": "September 2015;October 2015;January 2016;March 2016;April 2016;May 2016", "docDescr": "Daily Reports;Inspection Logs;Construction Contracts;Construction Manual" }, "geometry": { "type": "Point", "coordinates": [ -11.367548720931598, 6.752156018686462 ] } },
+{ "type": "Feature", "properties": { "title": "Sanniquellie", "photoDescr": "September 2015;October 2015;January 2016;March 2016;April 2016;May 2016", "docDescr": "Daily Reports;Inspection Logs;Construction Contracts;Construction Manual" }, "geometry": { "type": "Point", "coordinates": [ -8.711569920009216, 7.363091504618729 ] } },
+{ "type": "Feature", "properties": { "title": "Voinjama", "photoDescr": "September 2015;October 2015;January 2016;March 2016;April 2016;May 2016", "docDescr": "Daily Reports;Inspection Logs;Construction Contracts;Construction Manual" }, "geometry": { "type": "Point", "coordinates": [ -9.753926772776927, 8.420192372432513 ] } }
+]
+}
