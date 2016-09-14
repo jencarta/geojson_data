@@ -1,0 +1,28 @@
+element,subelement,RARNUM,name,s,f,state,conc,mapping_qu,g_source,s_source,jan,feb,mar,apr,may,jun,jul,aug,sep,oct,nov,dec,nesting,migrating,molting,hatching,spawning,eggs,larvae,juveniles,adults,mating,calving,pupping,internesti
+BIRD,shorebird,18,American oystercatcher,,,,2 ADULTS,NESTING,409,412,,,X,X,X,X,X,X,X,,,,MAR-AUG,-,-,-,-,-,-,-,-,-,-,-,-
+BIRD,shorebird,19,American oystercatcher,,,,4 ADULTS,NESTING,409,412,,,X,X,X,X,X,X,X,,,,MAR-AUG,-,-,-,-,-,-,-,-,-,-,-,-
+BIRD,shorebird,21,American oystercatcher,,,,5 ADULTS,NESTING,409,412,,,X,X,X,X,X,X,X,,,,MAR-AUG,-,-,-,-,-,-,-,-,-,-,-,-
+BIRD,raptor,26,Bald eagle,T,,GA,1 NEST,NESTING,415,415,X,X,X,X,X,X,X,X,X,X,X,X,SEP-APR,-,-,-,-,-,-,-,-,-,-,-,-
+BIRD,wading,33,Clapper rail,,,,HIGH,GENERAL DISTRIBUTION,406,406,X,X,X,X,X,,,,X,X,X,X,-,-,-,-,-,-,-,-,-,-,-,-,-
+BIRD,waterfowl,73,Blue-winged teal,,,,100S,WINTERING,402,401,X,X,X,X,X,,,,X,X,X,X,-,-,-,-,-,-,-,-,-,-,-,-,-
+BIRD,waterfowl,74,Diving ducks,,,,100S,RAFTING,402,401,X,X,X,,,,,,,,X,X,-,-,-,-,-,-,-,-,-,-,-,-,-
+BIRD,waterfowl,75,Blue-winged teal,,,,100S,WINTERING,402,401,X,X,X,X,X,,,,X,X,X,X,-,-,-,-,-,-,-,-,-,-,-,-,-
+BIRD,waterfowl,86,Long-tailed duck,,,,10S,WINTERING,402,401,X,X,X,,,,,,,,X,X,-,-,-,-,-,-,-,-,-,-,-,-,-
+BIRD,waterfowl,89,Hooded merganser,,,,HIGH,WINTERING,401,401,X,X,X,,,,,,,,X,X,-,-,-,-,-,-,-,-,-,-,-,-,-
+BIRD,diving,90,Brown pelican,,,,10S,GENERAL DISTRIBUTION,404,413,,X,X,X,X,X,X,X,X,X,,,-,-,-,-,-,-,-,-,-,-,-,-,-
+BIRD,alcid,91,Alcids,,,,,GENERAL DISTRIBUTION,416,416,X,X,X,X,,,,,,,,X,-,-,-,-,-,-,-,-,-,-,-,-,-
+BIRD,gull_tern,113,Least tern,,,,,NESTING,412,412,,,X,X,X,X,X,X,X,,,,APR-AUG,-,-,-,-,-,-,-,-,-,-,-,-
+BIRD,shorebird,114,American oystercatcher,,,,,WINTERING,418,412,X,X,,,,,,,,X,X,X,-,-,-,-,-,-,-,-,-,-,-,-,-
+BIRD,gull_tern,115,Least tern,,,,12 NESTS,NESTING,410,412,,,X,X,X,X,X,X,X,,,,APR-AUG,-,-,-,-,-,-,-,-,-,-,-,-
+BIRD,shorebird,116,American oystercatcher,,,,6 ADULTS,NESTING,409,412,,,X,X,X,X,X,X,X,,,,MAR-AUG,-,-,-,-,-,-,-,-,-,-,-,-
+BIRD,shorebird,142,Red knot,,T,GA,,MIGRATION,412,412,,,,,,,X,X,X,X,,,-,JUL-OCT,-,-,-,-,-,-,-,-,-,-,-
+BIRD,passerine,153,Seaside sparrow,,,,HIGH,GENERAL DISTRIBUTION,406,406,X,X,X,X,X,,,,X,X,X,X,-,OCT-MAY,-,-,-,-,-,-,-,-,-,-,-
+BIRD,passerine,155,Seaside sparrow,,,,,GENERAL DISTRIBUTION,406,406,X,X,X,X,X,X,X,X,X,X,X,X,-,-,-,-,-,-,-,-,-,-,-,-,-
+BIRD,shorebird,179,Shorebirds,,,,"1,000S",WINTERING,418,412,X,X,X,,,,,,,X,X,X,-,-,-,-,-,-,-,-,-,-,-,-,-
+BIRD,shorebird,180,American oystercatcher,,,,10S,WINTERING,418,412,X,X,,,,,,,,X,X,X,-,-,-,-,-,-,-,-,-,-,-,-,-
+BIRD,waterfowl,235,American coot,,,,100S,WINTERING,402,401,X,X,X,,,,,,,X,X,X,-,-,-,-,-,-,-,-,-,-,-,-,-
+BIRD,waterfowl,236,Bufflehead,,,,HIGH,RAFTING,401,401,X,X,X,,,,,,,,X,X,-,-,-,-,-,-,-,-,-,-,-,-,-
+BIRD,waterfowl,237,Scaup,,,,"10,000S",RAFTING,401,401,X,X,X,,,,,,,,X,X,-,-,-,-,-,-,-,-,-,-,-,-,-
+BIRD,waterfowl,238,Diving ducks,,,,100S,RAFTING,402,401,X,X,X,,,,,,,,X,X,-,-,-,-,-,-,-,-,-,-,-,-,-
+BIRD,shorebird,281,American oystercatcher,,,,,WINTERING,418,412,X,X,,,,,,,,X,X,X,-,-,-,-,-,-,-,-,-,-,-,-,-
+BIRD,shorebird,282,Wilson's plover,,,,30 ADULTS,NESTING,409,412,,,X,X,X,X,X,,,,,,MAR-JUL,-,-,-,-,-,-,-,-,-,-,-,-
