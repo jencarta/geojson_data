@@ -1,0 +1,24 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "type": "start" }, "geometry": { "type": "Point", "coordinates": [ -104.83107667, 38.83824833 ] } },
+{ "type": "Feature", "properties": { "type": "mile 1" }, "geometry": { "type": "Point", "coordinates": [ -104.83092809282701, 38.844150629133125 ] } },
+{ "type": "Feature", "properties": { "type": "mile 2" }, "geometry": { "type": "Point", "coordinates": [ -104.81838337896082,38.84635000000191 ] } },
+{ "type": "Feature", "properties": { "type": "mile 3" }, "geometry": { "type": "Point", "coordinates": [ -104.81655389909912,38.86001250367819 ] } },
+{ "type": "Feature", "properties": { "type": "mile 4" }, "geometry": { "type": "Point", "coordinates": [ -104.81845160954536,38.86184066500154 ] } },
+{ "type": "Feature", "properties": { "type": "mile 5" }, "geometry": { "type": "Point", "coordinates": [ -104.819215,38.84735914616769 ] } },
+{ "type": "Feature", "properties": { "type": "mile 6" }, "geometry": { "type": "Point", "coordinates": [ -104.81994450012266,38.83287708761724 ] } },
+{ "type": "Feature", "properties": { "type": "mile 7" }, "geometry": { "type": "Point", "coordinates": [ -104.8242012035238,38.821146262737955 ] } },
+{ "type": "Feature", "properties": { "type": "mile 8" }, "geometry": { "type": "Point", "coordinates": [ -104.82918042757356,38.80820030712432 ] } },
+{ "type": "Feature", "properties": { "type": "mile 9" }, "geometry": { "type": "Point", "coordinates": [ -104.8243687004632,38.816327428661296 ] } },
+{ "type": "Feature", "properties": { "type": "mile 10" }, "geometry": { "type": "Point", "coordinates": [ -104.82040333,38.8281042603874 ] } },
+{ "type": "Feature", "properties": { "type": "mile 11" }, "geometry": { "type": "Point", "coordinates": [ -104.80396423107359,38.828944296112496 ] } },
+{ "type": "Feature", "properties": { "type": "mile 12" }, "geometry": { "type": "Point", "coordinates": [ -104.803205,38.843410983807765 ] } },
+{ "type": "Feature", "properties": { "type": "mile 13" }, "geometry": { "type": "Point", "coordinates": [ -104.81850021200741,38.84641413104176 ] } },
+{ "type": "Feature", "properties": { "type": "mile 14" }, "geometry": { "type": "Point", "coordinates": [ -104.82493086463879,38.839706819555644 ] } },
+{ "type": "Feature", "properties": { "type": "mile 15" }, "geometry": { "type": "Point", "coordinates": [ -104.83094813117901,38.84411129353132 ] } },
+{ "type": "Feature", "properties": { "type": "end" }, "geometry": { "type": "Point", "coordinates": [ -104.83076667, 38.84298 ] } }
+]
+}
